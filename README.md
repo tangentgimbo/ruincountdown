@@ -1,4 +1,4 @@
 # 
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/tangentgimbo/pen/GRwBaZx](https://codepen.io/tangentgimbo/pen/GRwBaZx).
-
+This is just a fan project
+i it doesn't have any correlation with steelwool studios or scot cawthon
