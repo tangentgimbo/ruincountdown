@@ -1,5 +1,5 @@
 // Set the target date to 12:00 AM PST (Pacific Standard Time) on July 25, 2023
-const targetDate = new Date('2023-07-25T00:00:00-07:00');
+const targetDate = new Date('2026-02-26T00:00:00-07:00');
 
 function updateCountdown() {
   const now = new Date();
